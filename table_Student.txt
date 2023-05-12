@@ -1,0 +1,24 @@
+INSERT INTO `Student` (`student_id`, `firstname`, `lastname`, `email`, `phone`, `address_id`) 
+VALUES 
+('1132', 'Clifford', 'Serion', 'clifford.serion@gmail.com', '465-7722', ‘2’), 
+‘(1133', 'Razal', 'palemo', 'iamrazel@live.com', '243-4456', '1'), 
+('1143', 'Jamilah', 'Lonot', 'jam@gmail.com', '223-43223', '3'), 
+('2132', 'Carell', 'Mary', 'Carell.mary22@yahoo.com', '541-6789', '1'),
+ ('2133', 'Jade', 'Ubas', 'jade.ubas@gmail.com', '978-2345', '4'), 
+('2134', 'Carell', 'Johns', 'carell.johns@outlook.com', '443-5567', '5'), 
+('2135', 'Christine ', 'Nori', 'nori432@gmail.com', '541-6677', '6'), 
+('3111', 'Angelina', 'Pitt', 'pittangie@gmail.com', '676-8543', '7'), 
+('3112', 'Monica', 'Geller', 'gellermon@gmail.com', '456-5674', '8'),
+ ('3113', 'Zack', 'Efron', 'zak666@hotmail.com', '541-8989', '9'),
+ ('4211', 'Christopher', 'Noal', 'dirnolan@gmail.com', '765-6978', '11’),
+(1130, 'John', 'Doe', 'johndoe@example.com', '555-1234', 1),
+(1131, 'Jane', 'Smith', 'janesmith@example.com', '555-5678', 2),
+(1134, 'Michael', 'Johnson', 'michaeljohnson@example.com', '555-9012', 3),
+(1135, 'Emily', 'Williams', 'emilywilliams@example.com', '555-3456', 4),
+(1136, 'William', 'Brown', 'williambrown@example.com', '555-7890', 5),
+(1137, 'Olivia', 'Garcia', 'oliviagarcia@example.com', '555-1234', 6),
+(1138, 'James', 'Martinez', 'jamesmartinez@example.com', '555-5678', 7),
+(1139, 'Sophia', 'Davis', 'sophiadavis@example.com', '555-9012', 8),
+(1140, 'Benjamin', 'Rodriguez', 'benjaminrodriguez@example.com', '555-3456', 9),
+(1141, 'Isabella', 'Lee', 'isabellalee@example.com', '555-7890', 10);
+
