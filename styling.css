@@ -1,0 +1,115 @@
+
+    
+    body{
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        border-collapse: collapse;
+       
+        width: 70%;
+    }
+    th, td {
+   
+        padding: 8px;
+        padding: 5px;
+        text-align: left; 
+        border-bottom: 1px solid #ddd;
+    }
+    
+    h2 {
+        text-align: center;
+        margin-top: 20px;
+        color: #00539C;
+    }
+
+    h3 {
+        margin-left: 10px;
+        color: #2b89a0;
+    }
+
+ 
+    .centerform {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+ 
+
+    label {
+        
+        font-size: 15px;
+        color: #183232;
+        margin-bottom: 20px;
+    }
+
+    select {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        color: #2F4F4F;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #f2f2f2;
+        box-shadow: 2px 2px 2px #888888;
+        transition: background-color 0.3s ease;
+        margin-bottom: 20px;
+    }
+
+
+    .button ,input[type="submit"],input[type="hidden"] {
+        margin: 10px;
+        padding: 8px 16px;
+        border: none;
+        border-radius: 4px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #00539C;
+        box-shadow: 2px 2px 2px #888888;
+        transition: background-color 0.3s ease;
+        align-items: left;
+    
+    }
+
+
+
+    .button:hover,input[type="submit"]:hover ,.logout:hover  {
+        background-color: #002D56;
+    }
+
+    .logout {
+        margin: 20px;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #dc3545;
+      }
+
+    hr {
+        margin-top: 50px;
+    }
+
+
+
+    a {
+        color: #2F4F4F;
+        text-decoration: none;
+        border-bottom: 1px solid #2F4F4F;
+    }
+
+    a:hover {
+        color: #00539C;
+        border-bottom: 1px solid #00539C;
+    }
+
+
+    p {
+        margin-top: 10px;
+    }
